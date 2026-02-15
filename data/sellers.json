@@ -1,0 +1,37 @@
+{[
+        "Dasha":{
+            "img":"../src/dasha/1.jpg",
+            "name":"Sweets",
+            "about":"Наш магазин продає солодощі та цукерки."
+    },
+        "Sofia":{
+            "name":"Cosmetics",
+            "img":"../src/sofia/1.jpg",
+            "about":"Sofia offers a wide range of beauty products and cosmetics."
+    },
+        "yana": {
+        "name": "Illa M",
+        "image": "../src/illaM/1.jpg",
+        "about": "Illa M is a fitness enthusiast who provides eco-friendly workout gear.
+                  Her shop focuses on sustainable products that help you stay active and healthy."
+    },
+        "IlliaM":{
+        "img": "../src/illaM/1.jpg",
+        "name": "Sport",
+        "about": "Practical and convenient sports equipment for any purpose. Whether you're a beginner or a pro, we have everything you need to stay active and healthy."
+    },
+        "illaD": {
+        "img":"../illaD/1.jpg",
+        "name":"КРАМНИЦЯ [Гіперпосилання Заблоковано]",
+        "about":"КРАМНИЦЯ [Гіперпосилання Заблоковано] — це ваш квиток у світ [Екстремального Прибутку] та ностальгії за 1997 роком!
+
+Ми продаємо те, що інші називають «сміттям», а ми називаємо [СКАРБОМ]! У нас ви знайдете все: від вибухового Pipis до окулярів, що роблять вас справжнім [BIG SHOT].
+
+Чому обирають нас?
+
+* Ціни: Випадкові цифри, що викликають [Серцевий Напад]!
+* Якість: Товари, які працюють (іноді)!
+* Сервіс: Продавець, який ніколи не спить і завжди хоче ваші [Кромери]!
+
+Заходьте до нашої алеї сьогодні! Якщо ви не натиснете на [Гіперпосилання Заблоковано], ви назавжди залишитеся [Маленькою Губкою]!"
+}]}
